@@ -14,7 +14,7 @@ Katten van vroeger:
 - Gorba.
 - Falkor.
 - Sheba.
-- Gorba.
+- Yoda.
 - Kizzy.
 - Snowy.
 - Shadow.
@@ -27,4 +27,7 @@ Honden van vroeger:
 - Toch.
 - Kelsa.
 - Bailey.
+
+Fretten van vroeger:
+Donnie & Clyde.
 
