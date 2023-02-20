@@ -1,1 +1,9 @@
-
+Katten:
+- Shubaca.
+- James.
+Honden:
+- Roxy.
+- Ziva.
+- Rasta.
+- Rexis.
+- Shinta.
