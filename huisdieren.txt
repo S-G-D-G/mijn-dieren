@@ -13,9 +13,17 @@ Katten van vroeger:
 - Lovely.
 - Gorba.
 - Falkor.
+- Sheba.
+- Gorba.
+- Kizzy.
+- Snowy.
 
 Honden van vroeger:
 - Droopy.
 - Toch.
 - Kelsa.
+<<<<<<< HEAD
 - Bailey.
+=======
+- Bailey.
+>>>>>>> 5564ae4c00d64a1a656d3a1116c2975b28f41b5f
